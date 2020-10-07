@@ -1,0 +1,45 @@
+.container {
+  background: beige;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.item {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+.item1 {
+  background: burlywood;
+}
+.item2 {
+  background: darkkhaki;
+}
+.item3 {
+  background: #b39ddb;
+}
+.item4 {
+  background: #e6ceff;
+}
+.item5 {
+  background: #1565c0;
+}
+.item6 {
+  background: #5e92f3;
+}
+.item7 {
+  background: #003c8f;
+}
+.item8 {
+  background: #7953d2;
+}
+.item9 {
+  background: #003d00;
+}
+.item10 {
+  background: #629749;
+}
